@@ -9,3 +9,4 @@ Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 * Ramadhan Prinada, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
 * Freya
+* zee
